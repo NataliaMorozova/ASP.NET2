@@ -1,0 +1,10 @@
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\bin\Debug\netcoreapp2.0\WebStore.ServicesHosting.deps.json
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\bin\Debug\netcoreapp2.0\WebStore.ServicesHosting.runtimeconfig.json
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\bin\Debug\netcoreapp2.0\WebStore.ServicesHosting.runtimeconfig.dev.json
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\bin\Debug\netcoreapp2.0\WebStore.ServicesHosting.dll
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\bin\Debug\netcoreapp2.0\WebStore.ServicesHosting.pdb
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\obj\Debug\netcoreapp2.0\WebStore.ServicesHosting.csproj.CoreCompileInputs.cache
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\obj\Debug\netcoreapp2.0\WebStore.ServicesHosting.AssemblyInfoInputs.cache
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\obj\Debug\netcoreapp2.0\WebStore.ServicesHosting.AssemblyInfo.cs
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\obj\Debug\netcoreapp2.0\WebStore.ServicesHosting.dll
+C:\Users\moroz\source\repos\WebStore\WebStore.ServicesHosting\obj\Debug\netcoreapp2.0\WebStore.ServicesHosting.pdb

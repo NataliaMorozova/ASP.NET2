@@ -1,0 +1,12 @@
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.0\WebStore.Interfaces.deps.json
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.0\WebStore.Interfaces.dll
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.0\WebStore.Interfaces.pdb
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.0\WebStoreDomain.dll
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.0\WebStoreDomain.pdb
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.0\WebStore.Interfaces.csprojAssemblyReference.cache
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.0\WebStore.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.0\WebStore.Interfaces.AssemblyInfoInputs.cache
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.0\WebStore.Interfaces.AssemblyInfo.cs
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.0\WebStore.Interfaces.csproj.CopyComplete
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.0\WebStore.Interfaces.dll
+C:\Users\moroz\source\repos\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.0\WebStore.Interfaces.pdb
